@@ -19,7 +19,7 @@ public class Main {
                 pessoa = new Juridica();
             }
             else {
-                System.out.println("Opção inválida, tente novamente.");
+                System.out.println("Deixa de ser Burro e escolha 1 ou 2");
                 i--;
                 continue;
             }
