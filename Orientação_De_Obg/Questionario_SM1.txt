@@ -1,0 +1,33 @@
+1- Classe é uma maneira de se criar objetos que possuem mesmo comportamento e mesma estrutura.
+
+2- Objeto é definido pelos seus atributos, enquanto seu comportamento é determinado pelos seus métodos.
+
+3- Uma classe é uma estrutura definida por: Dados, Métodos que operam sobre esses dados, Mecanismo de instanciação de objetos***
+
+4- 
+
+5- “Private” A visibilidade dos atributos e métodos fica restrita à classe.
+   “Protect” A visibilidade é restrita ao pacote e a todas as subclasses.
+   “Public” Não há restrição de visibilidade.
+
+6- Herança define um tipo de relação entre objetos e classes, baseado em uma hierarquia. Dentro dessa relação hierárquica, classes podem herdar características de outras classes situadas acima ou transmitir suas características às classes subsequentes.
+
+7- 
+
+8- 
+
+9- 
+
+10- Polimorfismo é a propriedade de um mesmo método se comportar de formas distintas para assinaturas de métodos diferentes, A sobrecarga de função, assim como a herança, é uma forma de dar ao objeto uma capacidade polimórfica.
+
+11- 
+
+12- Sim***
+
+13- 
+
+14- “Privado” define que o método ou atributo só pode ser acessado internamente à classe,
+    “Publico” define que o método ou atributo são visíveis para todo o exterior e 
+    “Protegido” define que o pacote só pode ser acessado internamente à subclasse
+
+15- 
